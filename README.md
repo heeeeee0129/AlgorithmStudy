@@ -1,4 +1,5 @@
-# 코딩테스트 스터디
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdddd&height=150&section=header&text=코딩테스트%20%20스터디&fontSize=40" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=F70000&random=false&width=435&lines=%EB%AC%B8%EC%A0%9C+%EC%97%85%EB%A1%9C%EB%93%9C%EB%8A%94+%EB%A7%A4%EC%A3%BC+%ED%99%94%EC%9A%94%EC%9D%BC+%EB%B0%A4%EA%B9%8C%EC%A7%80+%EC%99%84%EB%A3%8C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94!!" />
 
 <br/>
 
@@ -8,7 +9,8 @@
   - 각자 브랜치를 파서 작업한 후 PR을 보냅니다.
   - 스터디원들의 PR을 통해 서로의 풀이 방법을 확인하고 개선할 점이나 추가 의견은 PR에 리뷰로 작성합니다. 
   - 스터디원들과 의논하고 싶은 부분(더 빠른 방법, 막힌 부분) 등은 issue에 업로드해주세요-! 다같이 의견을 나눠 봅시다~
-- 각 주차별로 할당된 문제를 다 푼 경우, 일주일치 보증금을 환급받습니다. 
+- 각 주차별로 할당된 문제를 다 푼 경우, 일주일치 보증금을 환급받습니다.
+  
 
 ## 일정표
 | 주차   | 날짜   | 문제 목록 | 진행 여부 |
@@ -43,6 +45,4 @@
 | 김승은 | Java      |
 | 이은정 | Python    |
 
-## TIP!
-- 구글 확장 프로그램 '백준허브'와 깃허브 레포를 연동하면 코드가 자동으로 업로드됩니다! 적절히 이용하면 편리합니당 :)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdddd&height=150&section=footer" />
