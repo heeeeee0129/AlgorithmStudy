@@ -1,0 +1,26 @@
+def solution(n):
+    # 총 개수만큼 2차원 배열로 저장
+    l = [[0]*(idx+1) for idx in range(n)]
+    
+    row = 0
+    col = 0
+    start = 0
+    num = sum([i+1 for i in range(n)])
+    
+    # 회전하면서 해당 배열의 각 자리에 저장
+    for idx in range(1, num+1):
+        l[row][col] = idx
+        if col == start and row < n-1:
+            row += 1
+        elif col < len(l[row]) - start - 1 and row == n-1:
+            col += 1
+        elif col == len(l[row]) - start - 1:
+            if l[row-1][col-1] == 0:
+                row -= 1
+                col -= 1
+            else:
+                row += 1
+                n -= 1
+                start += 1
+            
+    return [c for r in l for c in r]
